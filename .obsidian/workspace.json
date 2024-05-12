@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "326d99620075b06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d8112fb235ac97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4ee5c372817094c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3e994ee11454a13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Naturstoffe/Alpha und Beta.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12b320196342a41e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e0bbb47134f361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2063f1ff82a9b58e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bd4f39782768514",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a70ac56084d9f8c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ba6c20574993675",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3d97dd331d0c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d603b30e729f787",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Themen/Naturstoffe/Alpha und Beta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e2f0c02a48510de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Themen/Naturstoffe/Alpha und Beta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59759fafa4a1f0b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2e1b5c8175154df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Themen/Naturstoffe/Alpha und Beta.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e994ee11454a13f",
+  "lastOpenFiles": [
+    "Themen/Naturstoffe/Begriffe.md",
+    "Themen/Naturstoffe/Alpha und Beta.md",
+    "Themen/Naturstoffe/Kohlenhydrate.md",
+    "Themen/Naturstoffe/Einteilung der Kohlenhydrate.md",
+    "index.md",
+    "Themen/Naturstoffe/Optische Aktivitäten.md",
+    "Sonstige/Isomerien.md",
+    "Sonstige/Fischerprojektionen.md",
+    "Themen/Naturstoffe",
+    "Themen/Säure-Base Reaktionen/Säure-Base-Titration.md",
+    "Themen/Säure-Base Reaktionen/Wichtige Begriffe.md",
+    "conflict-files-obsidian-git.md",
+    "Sonstige/Indikatoren.md",
+    "Data/Images/Indikatoren/Thymolblau.png",
+    "Data/Images/Indikatoren/Skala.png",
+    "Data/Images/Indikatoren/Phenolphtalein.png",
+    "Data/Images/Indikatoren/Methylrot.png",
+    "Data/Images/Indikatoren/Bromthymolblau.png",
+    "Data/Images/Indikatoren",
+    "Data/Images",
+    "Data",
+    "Themen/Säure-Base Reaktionen/Puffer.md",
+    "Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md",
+    "Themen/Säure-Base Reaktionen/pH Wert.md",
+    "Sonstige/Formeln.md",
+    "Sonstige/Säure-Basen Liste.md",
+    "Themen/Extra/Bildung und Spaltung eines Esters.md",
+    "Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md",
+    "Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.md",
+    "Themen/Thermodynamik/Innere Energie.md",
+    "Themen/Metastabile Systeme/Chemisches Gleichgewicht.md",
+    "Themen/Säure-Base Reaktionen/pKs und pKb.md",
+    "Themen/Extra/Massenwirkungsgesetz.md",
+    "Themen/Thermodynamik/Entropie.md",
+    "Themen/Extra/Kalorimeter.md",
+    "Sonstige",
+    "output/Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.html",
+    "output/Themen/Thermodynamik/Innere Energie.html",
+    "output/Themen/Extra/Massenwirkungsgesetz.html",
+    "output/Themen/Extra/Katalysator.html",
+    "output/Themen/Extra/Kalorimeter.html"
+  ]
+}
