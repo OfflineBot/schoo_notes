@@ -1,0 +1,21 @@
+
+\renewcommand{\contentsname}{Inhalt} % table of contents <Name>
+%\renewcommand\thesection{\arabic{section}.} % sections with only one number
+
+\titleformat{\chapter}[block] %chapter format
+{\normalfont\Huge\bfseries}{Kapitel \thechapter:}{20pt}{\Huge} % chapter format
+
+\titleformat{\section}[block]{\large\bfseries}{\thesection}{1em}{}
+%\titleformat{\subsection}[block]{\normalfont\bfseries}{\arabic{subsection}.}{1em}{}
+
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\setlength\cellspacetoplimit{3pt}
+\setlength\cellspacebottomlimit{3pt}
+
+\renewcommand{\familydefault}{\sfdefault}
+

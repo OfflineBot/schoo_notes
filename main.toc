@@ -1,0 +1,53 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Allgemeines}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Aktivierungsenergie}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Kalorimeter}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Katalysator}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Massenwirkungsgetz}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Nukleophiler Angriff}{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Oxidation}{4}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Wichtige Stoffe}{4}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Thermodynamik}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Energetik}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Chemische Reaktionen und Energie}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}System und Umgebung}{5}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Die innere Energie}{5}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Energieerhaltungssatz}{6}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Endotherm und Exotherm}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Innere Energie}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Innere Energie}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Reaktionswärme}{6}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Enthalpie}{7}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Standardreaktionsenthalpie}{7}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Reaktionsenthalpie berechnen}{7}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Entropie}{7}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Reaktionsentropie}{7}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2} 2. Hauptsatz der Thermodynamik}{7}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3} 3. Hauptsatz der Thermodynamik}{7}{subsection.2.5.3}%
+\contentsline {chapter}{\numberline {3}Metastabile Systeme}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Chemisches Gleichgewicht}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Chemisches Gleichgewicht Berechnung}{8}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Metastabile Systeme}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Spontane Vorgänge}{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Gibbs Hemlholz Gleichung}{8}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Ordnung im System}{9}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}Säure/Base}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Säure Base Liste}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}pH-Wert}{11}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}pKs/pKb Berechnung}{11}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}pKs/pKb Wert}{11}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}pKs/pKb Berechnen}{11}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Säure Base Reaktion}{11}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Puffer}{12}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Puffer Berechnung}{12}{subsection.4.5.1}%
+\contentsline {chapter}{\numberline {5}Naturstoffe}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kohlenhydrate}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fischer Projektion}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Hawroth Projektion}{13}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Begriffe}{13}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Isomerie}{13}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Asymmetrisches C-Atom}{14}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Chiralität}{14}{subsection.5.4.3}%
+\contentsline {chapter}{\numberline {6}Aromaten}{15}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Kunststoffe}{16}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Elektrochemie}{17}{chapter.8}%
