@@ -16,9 +16,8 @@
 \contentsline {section}{\numberline {2.2}Endotherm und Exotherm}{6}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Innere Energie}{6}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Innere Energie}{6}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Reaktionswärme}{6}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Enthalpie}{7}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Standardreaktionsenthalpie}{7}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.4}Enthalpie}{6}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Standardreaktionsenthalpie}{6}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Reaktionsenthalpie berechnen}{7}{subsection.2.4.2}%
 \contentsline {section}{\numberline {2.5}Entropie}{7}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}Reaktionsentropie}{7}{subsection.2.5.1}%
@@ -54,6 +53,7 @@
 \contentsline {subsubsection}{Besonderheiten zum Bau der Maltose:}{14}{subsection.5.4.5}%
 \contentsline {subsubsection}{Besonderheiten zum Bau der Cellobiose:}{14}{subsection.5.4.5}%
 \contentsline {subsubsection}{Besonderheiten zum Bau der Lactose:}{14}{subsection.5.4.5}%
+\contentsline {subsection}{\numberline {5.4.6}Fehling/Tollens Reaktion}{14}{subsection.5.4.6}%
 \contentsline {chapter}{\numberline {6}Aromaten}{15}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Kunststoffe}{16}{chapter.7}%
 \contentsline {chapter}{\numberline {8}Elektrochemie}{17}{chapter.8}%
